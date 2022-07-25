@@ -23,6 +23,13 @@ Should you be developing or extending the site, here is how to get started.
 This site is built using [Hugo](https://gohugo.io) with the
 [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod).
 
+To initalize the theme, run
+
+```shell
+git submodule init
+git submodule update
+```
+
 #### Optional Software
 
 To format markdown files, we use
