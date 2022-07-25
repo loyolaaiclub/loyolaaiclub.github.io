@@ -1,9 +1,9 @@
 ---
-title: "My 1st post"
-description: "Desc Text."
+title: "H&M Kaggle Competition"
+description: "Develop product recommendations based on data from previous transactions using an LSTM"
 author: "Loyola AI Club (LAIC)"
-tags: []
-showToc: true
+tags: ["project", "kaggle", "h&m", "lstm"]
+showToc: false 
 
 date: 2022-07-24T23:49:28-05:00
 # weight: 1
@@ -36,3 +36,9 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+We participated in the H&M Group's [Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations) competition in April of 2022.
+
+We built our solution in PyTorch using an LSTM.
+
+You can view the source code for our solution on [GitHub](https://github.com/mhyatt000/hm).
