@@ -64,7 +64,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Loyola University Chicago (LAIC) 
     subtitle: "Loyola AI Club aims to expose students to AI at work in industry."
-    imageUrl: "/logo.jpg"
+    imageUrl: "logo.jpg"
     imageWidth: 240
     imageHeight: 240 
     imageTitle: Loyola AI Club (LAIC) Logo 
