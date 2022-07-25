@@ -1,3 +1,5 @@
+# https://github.com/adityatelange/hugo-PaperMod
+
 # baseURL: "https://examplesite.com/"
 title: Loyola AI Club 
 paginate: 15
@@ -52,39 +54,48 @@ params:
     safari_pinned_tab: "/static/favicon.ico"
 
   label:
-    text: "Home"
+    text: "Loyola AI Club" 
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
+  # Profile mode overwrites home mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Loyola University Chicago (LAIC) 
     subtitle: "Loyola AI Club aims to expose students to AI at work in industry."
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "/logo.jpg"
+    imageWidth: 240
+    imageHeight: 240 
     imageTitle: Loyola AI Club (LAIC) Logo 
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: About
+        url: about
+      - name: Projects
+        url: projects
+      - name: Speakers
+        url: speakers
+      - name: Workshops 
+        url: Workshops
 
   # home-info mode
+  # Home mode overwrites profile mode
+  # Default mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Loyola AI Club"
+    Content: Loyola AI Club aims to expose students to AI at work in industry.
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/loyolaaiclub"
+    - name: linkedin
+      url: "https://linkedin.com/"
+    - name: slack
+      url: "https://join.slack.com/t/laicworkspace/signup"
+    - name: email
+      url: "loyolaaiclub@gmail.com"
 
-  analytics:
+#  analytics:
     # google:
     #  SiteVerificationTag: "XYZabc"
     # bing:
@@ -114,18 +125,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: about 
+      name: About 
+      url: /about
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: speakers
+      name: Speakers
+      url: /speakers/
       weight: 30
+    - identifier: workshops
+      name: Workshops
+      url: /workshops/
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
