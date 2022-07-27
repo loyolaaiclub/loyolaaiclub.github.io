@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Loyola AI Club</title>
-    <link>https://github.nsynovic.dev/laic-website-hugo/categories/</link>
+    <link>https://loyolaaiclub.github.io/categories/</link>
     <description>Recent content in Categories on Loyola AI Club</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://github.nsynovic.dev/laic-website-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://loyolaaiclub.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

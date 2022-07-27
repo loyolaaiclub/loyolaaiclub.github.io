@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>h&amp;m on Loyola AI Club</title>
-    <link>https://github.nsynovic.dev/laic-website-hugo/tags/hm/</link>
+    <link>https://loyolaaiclub.github.io/tags/hm/</link>
     <description>Recent content in h&amp;m on Loyola AI Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Jul 2022 23:49:28 -0500</lastBuildDate><atom:link href="https://github.nsynovic.dev/laic-website-hugo/tags/hm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 23:49:28 -0500</lastBuildDate><atom:link href="https://loyolaaiclub.github.io/tags/hm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>H&amp;M Kaggle Competition</title>
-      <link>https://github.nsynovic.dev/laic-website-hugo/projects/kaggle-competition-hm/</link>
+      <link>https://loyolaaiclub.github.io/projects/kaggle-competition-hm/</link>
       <pubDate>Sun, 24 Jul 2022 23:49:28 -0500</pubDate>
       
-      <guid>https://github.nsynovic.dev/laic-website-hugo/projects/kaggle-competition-hm/</guid>
+      <guid>https://loyolaaiclub.github.io/projects/kaggle-competition-hm/</guid>
       <description>Develop product recommendations based on data from previous transactions using an LSTM</description>
     </item>
     

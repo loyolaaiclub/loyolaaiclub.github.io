@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>intro on Loyola AI Club</title>
-    <link>https://github.nsynovic.dev/laic-website-hugo/tags/intro/</link>
+    <link>https://loyolaaiclub.github.io/tags/intro/</link>
     <description>Recent content in intro on Loyola AI Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 08:50:59 -0500</lastBuildDate><atom:link href="https://github.nsynovic.dev/laic-website-hugo/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 08:50:59 -0500</lastBuildDate><atom:link href="https://loyolaaiclub.github.io/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Steven Platt: Intro to AI</title>
-      <link>https://github.nsynovic.dev/laic-website-hugo/speakers/feb-1-2022-intro-to-ai/</link>
+      <link>https://loyolaaiclub.github.io/speakers/feb-1-2022-intro-to-ai/</link>
       <pubDate>Tue, 01 Feb 2022 08:50:59 -0500</pubDate>
       
-      <guid>https://github.nsynovic.dev/laic-website-hugo/speakers/feb-1-2022-intro-to-ai/</guid>
+      <guid>https://loyolaaiclub.github.io/speakers/feb-1-2022-intro-to-ai/</guid>
       <description>Presented on Feburary 1st, 2022</description>
     </item>
     
