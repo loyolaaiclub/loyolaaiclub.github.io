@@ -1,6 +1,6 @@
 # https://github.com/adityatelange/hugo-PaperMod
 
-baseURL: "https://github.com/loyolaaiclub/loyolaaiclub.github.io"
+baseURL: "https://loyolaaiclub.github.io"
 title: Loyola AI Club 
 paginate: 15
 theme: PaperMod
