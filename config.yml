@@ -88,14 +88,14 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/loyolaaiclub"
+    - name: huggingface
+      url: "https://huggingface.co/loyolaaiclub"
     - name: linkedin
       url: "https://linkedin.com/"
     - name: slack
       url: "https://join.slack.com/t/laicworkspace/signup"
     - name: email
       url: "loyolaaiclub@gmail.com"
-    - name: huggingface
-      url: "https://huggingface.co/loyolaaiclub"
 
 #  analytics:
     # google:
