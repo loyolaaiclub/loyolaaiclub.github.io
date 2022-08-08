@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://loyolaaiclub.github.io/tags/cnn/</loc>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
+  </url><url>
     <loc>https://loyolaaiclub.github.io/</loc>
-    <lastmod>2022-07-25T09:30:35-05:00</lastmod>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
+  </url><url>
+    <loc>https://loyolaaiclub.github.io/tags/object-detection/</loc>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
+  </url><url>
+    <loc>https://loyolaaiclub.github.io/tags/project/</loc>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
+  </url><url>
+    <loc>https://loyolaaiclub.github.io/projects/</loc>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
+  </url><url>
+    <loc>https://loyolaaiclub.github.io/tags/</loc>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
+  </url><url>
+    <loc>https://loyolaaiclub.github.io/projects/yolo/</loc>
+    <lastmod>2022-08-02T23:49:28-05:00</lastmod>
   </url><url>
     <loc>https://loyolaaiclub.github.io/tags/loyola-university-chicago/</loc>
     <lastmod>2022-07-25T09:30:35-05:00</lastmod>
@@ -12,9 +30,6 @@
     <lastmod>2022-07-25T09:30:35-05:00</lastmod>
   </url><url>
     <loc>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</loc>
-    <lastmod>2022-07-25T09:30:35-05:00</lastmod>
-  </url><url>
-    <loc>https://loyolaaiclub.github.io/tags/</loc>
     <lastmod>2022-07-25T09:30:35-05:00</lastmod>
   </url><url>
     <loc>https://loyolaaiclub.github.io/tags/technical/</loc>
@@ -36,12 +51,6 @@
     <lastmod>2022-07-24T23:49:28-05:00</lastmod>
   </url><url>
     <loc>https://loyolaaiclub.github.io/tags/lstm/</loc>
-    <lastmod>2022-07-24T23:49:28-05:00</lastmod>
-  </url><url>
-    <loc>https://loyolaaiclub.github.io/tags/project/</loc>
-    <lastmod>2022-07-24T23:49:28-05:00</lastmod>
-  </url><url>
-    <loc>https://loyolaaiclub.github.io/projects/</loc>
     <lastmod>2022-07-24T23:49:28-05:00</lastmod>
   </url><url>
     <loc>https://loyolaaiclub.github.io/about/</loc>
