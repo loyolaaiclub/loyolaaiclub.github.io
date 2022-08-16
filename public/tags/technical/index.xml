@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technical on Tella</title>
+    <link>https://loyolaaiclub.github.io/tags/technical/</link>
+    <description>Recent content in technical on Tella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 09:30:35 -0500</lastBuildDate><atom:link href="https://loyolaaiclub.github.io/tags/technical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Layer Perceptron</title>
+      <link>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</link>
+      <pubDate>Mon, 25 Jul 2022 09:30:35 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</guid>
+      <description>This workshop is on the multi-layer perceptron.
+This is meant as an introduction into neual networks. An example involving the Titanic dataset will be developed by the end of the session.</description>
+    </item>
+    
+    <item>
+      <title>Simon Hughes: Implementing Semantic Search for Retail using AI</title>
+      <link>https://loyolaaiclub.github.io/speakers/apr-19-2022-implementing-semantic-search-for-retail-using-ai/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/speakers/apr-19-2022-implementing-semantic-search-for-retail-using-ai/</guid>
+      <description>Simon Hughes is a Principal Data Scientist at The Home Depot.</description>
+    </item>
+    
+  </channel>
+</rss>
