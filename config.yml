@@ -1,7 +1,7 @@
 # https://github.com/adityatelange/hugo-PaperMod
 
 baseURL: "https://loyolaaiclub.github.io"
-title: Loyola AI Club 
+title: Loyola AI Club
 paginate: 15
 theme: PaperMod
 
@@ -62,12 +62,12 @@ params:
   # Profile mode overwrites home mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Loyola University Chicago (LAIC) 
-    subtitle: "Loyola AI Club aims to expose students to AI at work in industry and help students seeking internships/jobs in the data science field."
-    # imageUrl: "logo.jpg"
-    # imageWidth: 240
-    # imageHeight: 240 
-    imageTitle: Loyola AI Club (LAIC) Logo 
+    title: Loyola AI Club
+    subtitle: "LAIC aims to expose students to AI at work in industry and help students seeking internships/jobs in the data science field."
+    imageUrl: "logo.jpg"
+    imageWidth: 240
+    imageHeight: 240 
+    imageTitle: Loyola AI Club Logo 
     buttons:
       - name: About
         url: about
