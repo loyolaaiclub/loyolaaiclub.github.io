@@ -19,7 +19,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Loyola AI Club 
-  description: "Loyola AI Club (LAIC) aims to expose students to AI at work in industry."
+  description: "Loyola AI Club (LAIC) aims to expose students to AI at work in industry and help students seeking internships/jobs in the data science field."
   keywords: [LAIC, Loyola AI Club, Loyola, LUC]
   author: Loyola AI Club (LAIC) 
   # author: ["Me", "You"] # multiple authors
@@ -63,10 +63,10 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Loyola University Chicago (LAIC) 
-    subtitle: "Loyola AI Club aims to expose students to AI at work in industry."
-    imageUrl: "logo.jpg"
-    imageWidth: 240
-    imageHeight: 240 
+    subtitle: "Loyola AI Club aims to expose students to AI at work in industry and help students seeking internships/jobs in the data science field."
+    # imageUrl: "logo.jpg"
+    # imageWidth: 240
+    # imageHeight: 240 
     imageTitle: Loyola AI Club (LAIC) Logo 
     buttons:
       - name: About
