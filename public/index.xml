@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tella</title>
+    <link>https://loyolaaiclub.github.io/</link>
+    <description>Recent content on Tella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 09:30:35 -0500</lastBuildDate><atom:link href="https://loyolaaiclub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Layer Perceptron</title>
+      <link>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</link>
+      <pubDate>Mon, 25 Jul 2022 09:30:35 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</guid>
+      <description>This workshop is on the multi-layer perceptron.
+This is meant as an introduction into neual networks. An example involving the Titanic dataset will be developed by the end of the session.</description>
+    </item>
+    
+    <item>
+      <title>H&amp;M Kaggle Competition</title>
+      <link>https://loyolaaiclub.github.io/projects/kaggle-competition-hm/</link>
+      <pubDate>Sun, 24 Jul 2022 23:49:28 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/projects/kaggle-competition-hm/</guid>
+      <description>We participated in the H&amp;amp;M Group&amp;rsquo;s Personalized Fashion Recommendations competition in April of 2022.
+We built our solution in PyTorch using an LSTM.
+You can view the source code for our solution on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://loyolaaiclub.github.io/about/</link>
+      <pubDate>Sun, 24 Jul 2022 23:40:13 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/about/</guid>
+      <description>Like the industrial revolution, artificial intelligence (AI) is changing life as we know it. AI may eventually become fundamental to everyday work, just like reading and writing. We meet to exchange ideas related to interdisciplinary AI use and apply them in real world situations in order to give students from all walks of life exposure to tools that will enhance the way they contribute to society.
+We bring guest speakers to campus to discuss how they use AI in the real world and host workshops to help students build technical skills.</description>
+    </item>
+    
+    <item>
+      <title>Simon Hughes: Implementing Semantic Search for Retail using AI</title>
+      <link>https://loyolaaiclub.github.io/speakers/apr-19-2022-implementing-semantic-search-for-retail-using-ai/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/speakers/apr-19-2022-implementing-semantic-search-for-retail-using-ai/</guid>
+      <description>Simon Hughes is a Principal Data Scientist at The Home Depot.</description>
+    </item>
+    
+    <item>
+      <title>Errorl Koolmeister: Organizing and Managing an AI Center of Excellence</title>
+      <link>https://loyolaaiclub.github.io/speakers/mar-15-2022-organizaing-and-managing-an-ai-center-of-excellence/</link>
+      <pubDate>Tue, 15 Mar 2022 08:52:14 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/speakers/mar-15-2022-organizaing-and-managing-an-ai-center-of-excellence/</guid>
+      <description>Errol Koolmeister is an AI and data advisor at The AI Framework, board member at Speqta, professor at the Lisbon School of Economics and Management, and an Advisory Board Member of the Northwestern University Retail AI Lab.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Greg Matthews: Data Visualization</title>
+      <link>https://loyolaaiclub.github.io/speakers/mar-1-2022-data-visualization/</link>
+      <pubDate>Tue, 01 Mar 2022 08:51:51 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/speakers/mar-1-2022-data-visualization/</guid>
+      <description>Dr. Greg Matthews is the Directory of the Data Science Program at Loyola University Chicago.</description>
+    </item>
+    
+    <item>
+      <title>Ram Peddu: Charting a Career in AI</title>
+      <link>https://loyolaaiclub.github.io/speakers/feb-15-2022-charting-a-career-in-ai/</link>
+      <pubDate>Tue, 15 Feb 2022 08:51:17 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/speakers/feb-15-2022-charting-a-career-in-ai/</guid>
+      <description>Ram Peddu is the Senior Vice President and Head of Advanced Analytics at Citizens Bank.
+He is working on intelligent automation, AI/ML solutions, enterprise data lakes, AI governance, and geo spatial analytics.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Steven Platt: Intro to AI</title>
+      <link>https://loyolaaiclub.github.io/speakers/feb-1-2022-intro-to-ai/</link>
+      <pubDate>Tue, 01 Feb 2022 08:50:59 -0500</pubDate>
+      
+      <guid>https://loyolaaiclub.github.io/speakers/feb-1-2022-intro-to-ai/</guid>
+      <description>Dr. Steven Platt is a Director of Analytics and Lecturer of Analytics and AI at Loyola University Chicago&amp;rsquo;s Quinlan School of Business.</description>
+    </item>
+    
+  </channel>
+</rss>
