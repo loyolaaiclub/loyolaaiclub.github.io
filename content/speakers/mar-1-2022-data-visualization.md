@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Greg Matthews: Data Visualization'
+title: 'Dr. Alex Krasnikov: Data Visualization'
 description: Presented on March 1st, 2022
 author: Loyola AI Club (LAIC)
 tags: [speaker, luc, loyola university chicago, data visualization]
@@ -36,6 +36,5 @@ editPost:
   appendFilePath: true   # to append file path to Edit link
 ---
 
-[Dr. Greg Matthews](https://www.linkedin.com/in/gregory-matthews-ph-d-0653ab6/)
-is the Directory of the
-[Data Science Program at Loyola University Chicago](https://www.luc.edu/datascience/).
+[Dr. Alex Krasnikov](https://www.linkedin.com/in/alex-krasnikov-5028634/)
+is an Assistant Professor at the [Quinlan School of Business at Loyola University Chicago](https://www.luc.edu/quinlan/).
