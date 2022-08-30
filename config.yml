@@ -91,11 +91,11 @@ params:
     - name: huggingface
       url: "https://huggingface.co/loyolaaiclub"
     - name: linkedin
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/company/loyola-ai-club/"
     - name: slack
       url: "https://join.slack.com/t/laicworkspace/signup"
     - name: email
-      url: "loyolaaiclub@gmail.com"
+      url: "mailto:loyolaaiclub@luc.edu"
 
 #  analytics:
     # google:
