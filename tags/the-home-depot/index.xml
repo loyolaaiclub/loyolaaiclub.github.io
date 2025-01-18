@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Home Depot on Loyola AI Club</title>
+    <link>https://loyolaaiclub.github.io/tags/the-home-depot/</link>
+    <description>Recent content in The Home Depot on Loyola AI Club</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://loyolaaiclub.github.io/tags/the-home-depot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simon Hughes: Implementing Semantic Search for Retail using AI</title>
+      <link>https://loyolaaiclub.github.io/speakers/apr-19-2022-implementing-semantic-search-for-retail-using-ai/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://loyolaaiclub.github.io/speakers/apr-19-2022-implementing-semantic-search-for-retail-using-ai/</guid>
+      <description>Presented on April 19th, 2022</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Loyola University Chicago on Loyola AI Club</title>
+    <link>https://loyolaaiclub.github.io/tags/loyola-university-chicago/</link>
+    <description>Recent content in Loyola University Chicago on Loyola AI Club</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jul 2022 09:30:35 -0500</lastBuildDate>
+    <atom:link href="https://loyolaaiclub.github.io/tags/loyola-university-chicago/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Layer Perceptron</title>
+      <link>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</link>
+      <pubDate>Mon, 25 Jul 2022 09:30:35 -0500</pubDate>
+      <guid>https://loyolaaiclub.github.io/workshops/multilayer-perceptron/</guid>
+      <description>Technical workshop on the multi-layer perceptron</description>
+    </item>
+    <item>
+      <title>Dr. Alex Krasnikov: Data Visualization</title>
+      <link>https://loyolaaiclub.github.io/speakers/mar-1-2022-data-visualization/</link>
+      <pubDate>Tue, 01 Mar 2022 08:51:51 -0500</pubDate>
+      <guid>https://loyolaaiclub.github.io/speakers/mar-1-2022-data-visualization/</guid>
+      <description>Presented on March 1st, 2022</description>
+    </item>
+    <item>
+      <title>Dr. Steven Platt: Intro to AI</title>
+      <link>https://loyolaaiclub.github.io/speakers/feb-1-2022-intro-to-ai/</link>
+      <pubDate>Tue, 01 Feb 2022 08:50:59 -0500</pubDate>
+      <guid>https://loyolaaiclub.github.io/speakers/feb-1-2022-intro-to-ai/</guid>
+      <description>Presented on Feburary 1st, 2022</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prediction on Loyola AI Club</title>
+    <link>https://loyolaaiclub.github.io/tags/prediction/</link>
+    <description>Recent content in Prediction on Loyola AI Club</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Dec 2024 23:49:28 -0500</lastBuildDate>
+    <atom:link href="https://loyolaaiclub.github.io/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendations</title>
+      <link>https://loyolaaiclub.github.io/projects/movierec/</link>
+      <pubDate>Thu, 12 Dec 2024 23:49:28 -0500</pubDate>
+      <guid>https://loyolaaiclub.github.io/projects/movierec/</guid>
+      <description>Recommend similar movies a user would like based on their Letterboxd account</description>
+    </item>
+  </channel>
+</rss>
