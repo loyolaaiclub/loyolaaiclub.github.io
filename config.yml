@@ -2,7 +2,8 @@
 
 baseURL: "https://loyolaaiclub.github.io"
 title: Loyola AI Club
-paginate: 15
+pagination:
+  pagersize: 15
 theme: PaperMod
 
 enableRobotsTXT: true
